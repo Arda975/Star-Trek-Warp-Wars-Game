@@ -1,2 +1,1 @@
-# Star-Trek-Warp-Wars-Game
-I made a Star Trek Warp Wars Game in java.
+Integrate the Enigma file into your java project document and then use it.
